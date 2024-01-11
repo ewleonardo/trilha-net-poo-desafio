@@ -12,4 +12,4 @@ Console.WriteLine("\nIphone Papai:");
 Smartphone iphone = new Iphone("1232134", "Iphone 8", "IMEI99129321", 32);
 nokia.Ligar();
 nokia.ReceberLigacao();
-nokia.InstalarAplicativo("Bíblia Sagrada Plus");
+nokia.InstalarAplicativo("Bíblia Sagrada Pluss");
